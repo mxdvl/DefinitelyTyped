@@ -5431,6 +5431,10 @@
             "libraryName": "webix",
             "asOfVersion": "5.1.1"
         },
+        "webpack": {
+            "libraryName": "webpack",
+            "asOfVersion": "5.0.0"
+        },
         "webpack-chain": {
             "libraryName": "webpack-chain",
             "asOfVersion": "5.2.0"
